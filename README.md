@@ -23,6 +23,7 @@ PASSO A PASSO REALIZADO NA AULA:
             background-color: #f2f2f2;
         }
     </style>
+
 </head>
 <body>
     <table>
